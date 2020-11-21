@@ -4,4 +4,4 @@ NYC public transit info:
 
 [google.com](https://www.google.com)
 [google.com](https://new.mta.info./coronavirus/ridership)
-[daily ridership (https://new.mta.info./coronavirus/ridership)
+
