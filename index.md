@@ -6,7 +6,7 @@
 
 [Times Square pedestrian traffic](https://timessquarenyc.org/do-business/market-research-data/pedestrian-counts) 
 
-##live video
+## live video
 
 [Times Square](https://youtu.be/eJ7ZkQ5TC08)
 
