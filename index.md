@@ -1,3 +1,3 @@
 ## RealDataNYC
 [MTA daily ridership](https://new.mta.info./coronavirus/ridership)
-[Times Square pedestrian traffic] (xxxxx)
+[Times Square pedestrian traffic] (https://)
