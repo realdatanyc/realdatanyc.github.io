@@ -1,6 +1,6 @@
-## 2020 NYC economic factors and measures
+## 2020 NYC economy: factors and measures
 
-[NY Times COVID-19 dataviz](https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F02_286&gl=US&cdie=US%Aen)
+[NYC COVID-19 dataviz](https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F02_286&gl=US&cdie=US%Aen)
 
 [MTA daily ridership](https://new.mta.info./coronavirus/ridership)
 
