@@ -7,4 +7,4 @@
 [Times Square pedestrian traffic](https://timessquarenyc.org/do-business/market-research-data/pedestrian-counts) 
 
 ## data
-[NYC OpenData] (https:// opendata.cityofnewyork.us)
+[NYC OpenData](https://opendata.cityofnewyork.us)
