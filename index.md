@@ -1,4 +1,3 @@
 ## RealDataNYC
-NYC public transit info:  
-[daily ridership](https://new.mta.info./coronavirus/ridership)
-
+[MTA daily ridership](https://new.mta.info./coronavirus/ridership)
+[Times Square pedestrian traffic] (xxxxx)
