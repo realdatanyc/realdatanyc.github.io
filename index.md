@@ -6,7 +6,11 @@
 
 [Times Square pedestrian traffic](https://timessquarenyc.org/do-business/market-research-data/pedestrian-counts) 
 
-[Times Square live camera](https://youtu.be/eJ7ZkQ5TC08)
+##live video
+
+[Times Square](https://youtu.be/eJ7ZkQ5TC08)
+
+[NYC traffic](https://511ny.org/map#Camera)
 
 ## data
 [NYC OpenData](https://opendata.cityofnewyork.us)
