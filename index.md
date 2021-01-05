@@ -6,6 +6,10 @@
 
 [Times Square pedestrian traffic](https://timessquarenyc.org/do-business/market-research-data/pedestrian-counts) 
 
+[Columbia University Stats](https://covid19.columbia.edu/)
+
+
+
 ## live video
 
 [Times Square](https://youtu.be/eJ7ZkQ5TC08)
