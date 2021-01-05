@@ -8,7 +8,7 @@
 
 [Columbia University Stats](https://covid19.columbia.edu/)
 
-[NYU Results]( https://www.nyu.edu/life/safety-health-wellness/coronavirus-information/nyc-covid-19-testing-data.html)
+[NYU Results](https://www.nyu.edu/life/safety-health-wellness/coronavirus-information/nyc-covid-19-testing-data.html)
 
 
 ## live video
