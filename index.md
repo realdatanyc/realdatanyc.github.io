@@ -20,10 +20,7 @@
 ## data
 [NYC OpenData](https://opendata.cityofnewyork.us)
 
-[NYC Department of Finance Data Available on the NYC Open Data Portal] (https://www1.nyc.gov/site/finance/about/open-portal.page)
-
 [NYC Dept of Finance](https://www1.nyc.gov/site/finance/about/open-portal.page)
-
 
 [Resources](https://github.com/realdatanyc/resources)
 
