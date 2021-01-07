@@ -20,7 +20,7 @@
 ## data
 [NYC OpenData](https://opendata.cityofnewyork.us)
 
-[] https://www1.nyc.gov/site/finance/about/open-portal.page 
+[NYC real estate data] 
 
 [Resources](https://github.com/realdatanyc/resources)
 
