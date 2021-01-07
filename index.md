@@ -20,7 +20,7 @@
 ## data
 [NYC OpenData](https://opendata.cityofnewyork.us)
 
-[test] (https://www1.nyc.gov/site/finance/about/open-portal.page)
+[NYC Department of Finance Data Available on the NYC Open Data Portal] (http.//www)
 
 
 
