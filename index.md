@@ -42,3 +42,5 @@ http://a810-bisweb.nyc.gov/bisweb/bispi00.jsp?show=1
 Rent Regulated Building Search
 https://apps.hcr.ny.gov/BuildingSearch/
 
+StreetEasy - decoding the Market
+https://vimeo.com/529344325/c135c05707
