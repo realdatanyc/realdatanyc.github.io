@@ -31,8 +31,6 @@
 
 [Zoning and Land Use Map](https://zola.planning.nyc.gov)
 
-Zoning and Land Use Map
-https://zola.planning.nyc.gov/about/#9.72/40.7121/-73.733
 
 Zoning Districts
 https://www1.nyc.gov/site/planning/zoning/districts-tools.page
