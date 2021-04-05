@@ -40,7 +40,7 @@
 Rent Regulated Building Search
 https://apps.hcr.ny.gov/BuildingSearch/
 
-[StreetEasy](https://streeteasy.com/blog/data-dashboard/)
+[StreetEasy Data Dashboard](https://streeteasy.com/blog/data-dashboard/)
 
 StreetEasy - decoding the Market
 https://vimeo.com/529344325/c135c05707
