@@ -27,6 +27,8 @@
 
 [Rent-Stabilized Building Lists](https://rentguidelinesboard.cityofnewyork.us/resources/rent-stabilized-building-lists/)
 
+[Rent Regulated Building Search](https://apps.hcr.ny.gov/BuildingSearch/)
+
 [Oasis Map](http://www.oasisnyc.net/map.aspx)
 
 [Zoning and Land Use Map](https://zola.planning.nyc.gov)
@@ -34,9 +36,6 @@
 [Zoning Districts](https://www1.nyc.gov/site/planning/zoning/districts-tools.page)
 
 [Building Information Search](http://a810-bisweb.nyc.gov/bisweb/bispi00.jsp?show=1)
-
-Building Information Search
-http://a810-bisweb.nyc.gov/bisweb/bispi00.jsp?show=1
 
 Rent Regulated Building Search
 https://apps.hcr.ny.gov/BuildingSearch/
