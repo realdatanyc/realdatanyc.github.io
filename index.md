@@ -27,6 +27,8 @@
 
 [Rent-Stabilized Building Lists] (https://rentguidelinesboard.cityofnewyork.us/resources/rent-stabilized-building-lists/)
 
+[Rent-Stabilized Building Lists](https://rentguidelinesboard.cityofnewyork.us/resources/rent-stabilized-building-lists/)
+
 [Oasis Map](http://www.oasisnyc.net/map.aspx)
 
 Oasis Map
