@@ -37,8 +37,7 @@
 
 [Building Information Search](http://a810-bisweb.nyc.gov/bisweb/bispi00.jsp?show=1)
 
-Rent Regulated Building Search
-https://apps.hcr.ny.gov/BuildingSearch/
+[Rent Regulated Building Search](https://streeteasy.com/blog/data-dashboard/)
 
 [StreetEasy Data Dashboard](https://streeteasy.com/blog/data-dashboard/)
 
