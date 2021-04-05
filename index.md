@@ -33,8 +33,7 @@
 
 [Zoning Districts](https://www1.nyc.gov/site/planning/zoning/districts-tools.page)
 
-Zoning Districts
-https://www1.nyc.gov/site/planning/zoning/districts-tools.page
+[Building Information Search](http://a810-bisweb.nyc.gov/bisweb/bispi00.jsp?show=1)
 
 Building Information Search
 http://a810-bisweb.nyc.gov/bisweb/bispi00.jsp?show=1
