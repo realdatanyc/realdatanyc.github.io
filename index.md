@@ -29,6 +29,8 @@
 
 [Oasis Map](http://www.oasisnyc.net/map.aspx)
 
+[Zoning and Land Use Map](https://zola.planning.nyc.gov)
+
 Zoning and Land Use Map
 https://zola.planning.nyc.gov/about/#9.72/40.7121/-73.733
 
