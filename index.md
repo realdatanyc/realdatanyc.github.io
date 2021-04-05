@@ -25,14 +25,9 @@
 [Resources](https://github.com/realdatanyc/resources)
 [UK Service Performance](https://www.gov.uk/performance/services)
 
-[Rent-Stabilized Building Lists] (https://rentguidelinesboard.cityofnewyork.us/resources/rent-stabilized-building-lists/)
-
 [Rent-Stabilized Building Lists](https://rentguidelinesboard.cityofnewyork.us/resources/rent-stabilized-building-lists/)
 
 [Oasis Map](http://www.oasisnyc.net/map.aspx)
-
-Oasis Map
-http://www.oasisnyc.net/map.aspx
 
 Zoning and Land Use Map
 https://zola.planning.nyc.gov/about/#9.72/40.7121/-73.733
