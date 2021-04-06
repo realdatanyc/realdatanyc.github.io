@@ -43,7 +43,7 @@
 
 ## video playback
 
-[StreetEasy - decoding the Market June 2020] (https://www.youtube.com/watch?v=Dy9cRTmEVY4&t=872s)
+[StreetEasy - decoding the Market June 2020](https://www.youtube.com/watch?v=Dy9cRTmEVY4&t=872s)
 
 StreetEasy - decoding the Market
 https://vimeo.com/529344325/c135c05707
