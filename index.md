@@ -47,4 +47,4 @@
 
 [StreetEasy - decoding the Market March 2021](https://vimeo.com/529344325/c135c05707)
 
-[Urban Digs - Friday, 4/9/2021] (https://youtu.be/gV1hTeeX1lo)
+[Urban Digs - Friday, 4/9/2021](https://youtu.be/gV1hTeeX1lo)
