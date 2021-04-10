@@ -46,3 +46,5 @@
 [StreetEasy - decoding the Market June 2020](https://www.youtube.com/watch?v=Dy9cRTmEVY4&t=872s)
 
 [StreetEasy - decoding the Market March 2021](https://vimeo.com/529344325/c135c05707)
+
+[Urban Digs - Friday, 4/9/2021] (https://youtu.be/gV1hTeeX1lo)
