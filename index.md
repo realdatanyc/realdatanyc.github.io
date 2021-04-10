@@ -50,4 +50,4 @@
 [Urban Digs - Friday, 4/9/2021](https://youtu.be/gV1hTeeX1lo)
 
 ## technical info
-[Nvidia - RAPIDS] (https://youtu.be/OKL9bTmo9o8)
+[Nvidia - RAPIDS](https://youtu.be/OKL9bTmo9o8)
