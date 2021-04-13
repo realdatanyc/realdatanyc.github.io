@@ -53,3 +53,4 @@
 
 ## technical info
 [Nvidia - RAPIDS](https://youtu.be/OKL9bTmo9o8)
+[Nvidia GTC 2021 edited keynote](https://youtu.be/YbEbEpiiIes)
