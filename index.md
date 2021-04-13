@@ -19,7 +19,7 @@
 
 [Compass Q1 2021](https://www.compass.com/research/static/assets/Manhattan_Quarterly_Market_Insights_Report_Q1_2020.pdf)
 
-[Elegran April 2021(https://elegran-brand-assets.s3.amazonaws.com/insights/2021-april-monthly-market-update.pdf)
+[Elegran April 2021](https://elegran-brand-assets.s3.amazonaws.com/insights/2021-april-monthly-market-update.pdf)
 
 [Elliman Q1 2021](https://www.millersamuel.com/files/2021/04/Manhattan-Q1_2021.pdf)
 
