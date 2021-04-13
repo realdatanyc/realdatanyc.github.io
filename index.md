@@ -56,6 +56,8 @@
 
 [Urban Digs - Friday, 4/9/2021](https://youtu.be/gV1hTeeX1lo)
 
+[IBM presentation at GTC 2021](https://gtc21.event.nvidia.com/media/t/1_6nk3k0in)
+
 ## technical info
 [Nvidia - RAPIDS](https://youtu.be/OKL9bTmo9o8)
 
