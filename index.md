@@ -11,7 +11,7 @@
 [NYU Results](https://www.nyu.edu/life/safety-health-wellness/coronavirus-information/nyc-covid-19-testing-data.html)
 
 ## real estate industry reports
-[Miller Samuel Q1 2021 - Rentals]https://www.millersamuel.com/files/2021/04/rental-03_2021.pdf)
+[Miller Samuel Q1 2021 - Rentals](https://www.millersamuel.com/files/2021/04/rental-03_2021.pdf)
 
 [Brown Harris Stevens Q1 2020](http://media.bhsusa.com/pdf/1Q21BHSMarketReport.pdf)
 
