@@ -14,8 +14,13 @@
 [Miller Samuel Q1 2021 - Rentals](https://www.millersamuel.com/reports/elliman-report-manhattan-brooklyn-queens-rentals-3-2021/)
 
 [Brown Harris Stevens Q1 2020](http://media.bhsusa.com/pdf/1Q21BHSMarketReport.pdf)
-[Corcoran Q1 2020](https://www.ecorcoran.com/uploaded_doc/The_Corcoran_Report_1Q_2021_Manhattan.pdf)
-[Compass Q1 2020](https://www.compass.com/research/static/assets/Manhattan_Quarterly_Market_Insights_Report_Q1_2020.pdf)
+
+[Corcoran Q1 2021](https://www.ecorcoran.com/uploaded_doc/The_Corcoran_Report_1Q_2021_Manhattan.pdf)
+
+[Compass Q1 2021](https://www.compass.com/research/static/assets/Manhattan_Quarterly_Market_Insights_Report_Q1_2020.pdf)
+
+[Elegran April 2021(https://elegran-brand-assets.s3.amazonaws.com/insights/2021-april-monthly-market-update.pdf)
+
 [Elliman Q1 2021](https://www.millersamuel.com/files/2021/04/Manhattan-Q1_2021.pdf)
 
 
