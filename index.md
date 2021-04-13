@@ -58,6 +58,7 @@
 
 ## technical info
 [Nvidia - RAPIDS](https://youtu.be/OKL9bTmo9o8)
+
 [Nvidia GTC 2021 edited keynote](https://youtu.be/YbEbEpiiIes)
 
 [IBM presentation page at Nvidia GTC](https://gtc21.event.nvidia.com/media/t/1_6nk3k0in)
