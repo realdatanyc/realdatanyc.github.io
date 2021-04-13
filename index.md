@@ -46,6 +46,8 @@
 
 [StreetEasy Data Dashboard](https://streeteasy.com/blog/data-dashboard/)
 
+[NYU Furman Center - coredata.nyc](http://coredata.nyc/)
+
 ## video playback
 
 [StreetEasy - decoding the Market June 2020](https://www.youtube.com/watch?v=Dy9cRTmEVY4&t=872s)
@@ -57,4 +59,5 @@
 ## technical info
 [Nvidia - RAPIDS](https://youtu.be/OKL9bTmo9o8)
 [Nvidia GTC 2021 edited keynote](https://youtu.be/YbEbEpiiIes)
+
 [IBM presentation page at Nvidia GTC](https://gtc21.event.nvidia.com/media/t/1_6nk3k0in)
