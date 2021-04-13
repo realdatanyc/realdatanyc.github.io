@@ -16,6 +16,10 @@
 ## maps
 [City Neighbhorhoods](http://www.cityneighborhoods.nyc/manhattan-neighborhoods/)
 
+## news articles
+[NY Times - Luxury Condos - January 11, 2020](https://www.nytimes.com/2020/01/10/realestate/new-york-decade-real-estate.html)
+
+
 ## live video
 
 [Times Square](https://youtu.be/eJ7ZkQ5TC08)
