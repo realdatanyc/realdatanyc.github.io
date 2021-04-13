@@ -10,6 +10,9 @@
 
 [NYU Results](https://www.nyu.edu/life/safety-health-wellness/coronavirus-information/nyc-covid-19-testing-data.html)
 
+## real estate industry reports
+
+
 ## maps
 [City Neighbhorhoods](http://www.cityneighborhoods.nyc/manhattan-neighborhoods/)
 
@@ -54,3 +57,4 @@
 ## technical info
 [Nvidia - RAPIDS](https://youtu.be/OKL9bTmo9o8)
 [Nvidia GTC 2021 edited keynote](https://youtu.be/YbEbEpiiIes)
+[IBM presentation page at Nvidia GTC](https://gtc21.event.nvidia.com/media/t/1_6nk3k0in)
