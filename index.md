@@ -63,7 +63,7 @@
 
 [NYU Furman Center - coredata.nyc](http://coredata.nyc/)
 
-[Automated City Register System](https://a836-acris.nyc.gov/CP/CoverPage/MainMenu)
+[Automated City Register Information System](https://a836-acris.nyc.gov/CP/CoverPage/MainMenu)
 
 ## video playback
 
