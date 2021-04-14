@@ -73,6 +73,8 @@
 
 [Zillow](https://www.zillow.com/homes/Upper-West-Side,-New-York,-NY_rb/)
 
+[Marketproof](https://marketproof.com/new-development)
+
 
 ## video playback
 
