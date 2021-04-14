@@ -67,7 +67,7 @@
 
 ## real estate websites
 
-[StreetEasy](https://streeteasy.com/)
+[StreetEasy](https://streeteasy.com/neighborhoods/)
 
 [Brick Underground](https://www.brickunderground.com/)
 
