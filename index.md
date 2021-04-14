@@ -69,6 +69,7 @@
 
 [StreetEasy](https://streeteasy.com/)
 [Brick Underground](https://www.brickunderground.com/)
+[Zillow](https://www.zillow.com/homes/Upper-West-Side,-New-York,-NY_rb/)
 
 
 ## video playback
