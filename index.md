@@ -63,6 +63,8 @@
 
 [NYU Furman Center - coredata.nyc](http://coredata.nyc/)
 
+[Automated City Register System](https://a836-acris.nyc.gov/CP/CoverPage/MainMenu)
+
 ## video playback
 
 [StreetEasy - decoding the Market June 2020](https://www.youtube.com/watch?v=Dy9cRTmEVY4&t=872s)
