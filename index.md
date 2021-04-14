@@ -65,6 +65,12 @@
 
 [Automated City Register Information System](https://a836-acris.nyc.gov/CP/CoverPage/MainMenu)
 
+## real estate websites
+
+[StreetEasy](https://streeteasy.com/)
+[Brick Underground](https://www.brickunderground.com/)
+
+
 ## video playback
 
 [StreetEasy - decoding the Market June 2020](https://www.youtube.com/watch?v=Dy9cRTmEVY4&t=872s)
