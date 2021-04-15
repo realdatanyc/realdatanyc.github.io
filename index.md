@@ -23,6 +23,9 @@
 
 [Elliman Q1 2021](https://www.millersamuel.com/files/2021/04/Manhattan-Q1_2021.pdf)
 
+## presentation slides
+[Moving to NYC](https://docs.google.com/presentation/d/1E_cYNdjWcAtDP7wxYjzL9pbJkdwAy7_lR0vJWSb9LNw/edit?usp=sharing)
+
 
 ## maps
 [City Neighborhoods](http://www.cityneighborhoods.nyc/manhattan-neighborhoods/)
