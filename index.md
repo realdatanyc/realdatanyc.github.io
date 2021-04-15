@@ -87,6 +87,8 @@
 
 [Urban Digs - Friday, 4/9/2021](https://youtu.be/gV1hTeeX1lo)
 
+[Urban Digs - Thursday, 4/15/2021](https://youtu.be/q6QUgKUlGfA)
+
 [IBM presentation at GTC 2021](https://gtc21.event.nvidia.com/media/t/1_6nk3k0in)
 
 ## technical info
