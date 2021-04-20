@@ -35,6 +35,8 @@
 ## news articles
 [NY Times - Luxury Condos - January 11, 2020](https://www.nytimes.com/2020/01/10/realestate/new-york-decade-real-estate.html)
 
+[MIT - Blog:  Is WFH an Existential Crisis for Office Space?](https://mitcre.mit.edu/news/blog/is-work-from-home-an-existential-crisis-for-office-space)
+
 
 ## live video
 
