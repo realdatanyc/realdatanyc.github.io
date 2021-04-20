@@ -91,7 +91,7 @@
 
 [Urban Digs - Thursday, 4/15/2021](https://youtu.be/q6QUgKUlGfA)
 
-[IBM presentation at GTC 2021](https://gtc21.event.nvidia.com/media/t/1_6nk3k0in)
+[IBM presentation at GTC 2021(https://gtc21.event.nvidia.com/media/t/1_6nk3k0in)
 
 ## technical info
 [Nvidia - RAPIDS](https://youtu.be/OKL9bTmo9o8)
@@ -102,4 +102,4 @@
 
 
 ## bk
-[Urban Digs Brooklyn Report  - 4/19/2021(https://youtu.be/-EQYgI3EOkU)
+[Urban Digs Brooklyn Report  - 4/19/2021](https://youtu.be/-EQYgI3EOkU)
