@@ -1,6 +1,3 @@
-## insights
-[Actionable Insights](https://docs.google.com/presentation/d/1P-7RLlkmOvpPOVOkjcfv7vL7DLF_tfn6Yym-QBGEqcg/edit?usp=sharing)
-
 ## factors and measures
 
 [NYC COVID-19 dataviz](https://news.google.com/covid19/map?hl=en-US&mid=%2Fm%2F02_286&gl=US&cdie=US%Aen)
@@ -12,6 +9,9 @@
 [Columbia University Stats](https://covid19.columbia.edu/)
 
 [NYU Results](https://www.nyu.edu/life/safety-health-wellness/coronavirus-information/nyc-covid-19-testing-data.html)
+
+## insights
+[Actionable Insights](https://docs.google.com/presentation/d/1P-7RLlkmOvpPOVOkjcfv7vL7DLF_tfn6Yym-QBGEqcg/edit?usp=sharing)
 
 ## real estate industry reports
 [Miller Samuel Q1 2021 - Rentals](https://www.millersamuel.com/files/2021/04/rental-03_2021.pdf)
