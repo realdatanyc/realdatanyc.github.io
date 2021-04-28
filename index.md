@@ -108,4 +108,7 @@
 
 ## bk
 [Urban Digs Brooklyn Report EP 1  - 4/19/2021](https://youtu.be/-EQYgI3EOkU)
+
+[Urban Diggs Manhattan Report - 4/23/2021](https://youtu.be/0OBGgA1a2Kc)
+
 [Urban Digs Brooklyn Report EP 2 - 4/27/2021](https://youtu.be/AiIFFDuX6Z4)
