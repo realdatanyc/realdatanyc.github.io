@@ -13,6 +13,8 @@
 ## insights
 [Actionable Insights](https://docs.google.com/presentation/d/1P-7RLlkmOvpPOVOkjcfv7vL7DLF_tfn6Yym-QBGEqcg/edit?usp=sharing)
 
+[Urban Digs - Videos](https://www.youtube.com/channel/UCdz4Sz51f2FbjncnzyU7A5g/videos)
+
 ## real estate industry reports
 [Miller Samuel - Reports](https://www.millersamuel.com/reports/)
 
