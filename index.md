@@ -15,6 +15,8 @@
 
 [Urban Digs - Videos](https://www.youtube.com/channel/UCdz4Sz51f2FbjncnzyU7A5g/videos)
 
+[Nancy Packes - Reports](http://www.nancypackesinc.com/proprietary-research/)
+
 ## real estate industry reports
 [Miller Samuel - Reports](https://www.millersamuel.com/reports/)
 
