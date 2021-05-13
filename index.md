@@ -35,6 +35,8 @@
 ## maps
 [City Neighborhoods](http://www.cityneighborhoods.nyc/manhattan-neighborhoods/)
 
+[Manhattan Luxury Rentals](https://luxuryrentalsmanhattan.com/new-york-city-apartment-rentals-map)
+
 ## news articles
 [NY Times - Luxury Condos - January 11, 2020](https://www.nytimes.com/2020/01/10/realestate/new-york-decade-real-estate.html)
 
