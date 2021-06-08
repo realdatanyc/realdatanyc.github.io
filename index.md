@@ -86,6 +86,9 @@
 
 [Automated City Register Information System](https://a836-acris.nyc.gov/CP/CoverPage/MainMenu)
 
+## software engineering
+[SWEBOK] (https://ieeecs-media.computer.org/media/education/swebok/swebok-v3.pdf)
+
 ## real estate websites
 
 [StreetEasy](https://streeteasy.com/neighborhoods/)
