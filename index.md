@@ -1,5 +1,6 @@
 ## schedules and fares
 [Ridership](https://github.com/realdatanyc/ridership)
+[MTA subway maps](https://new.mta.info/maps)
 
 ## factors and measures
 
