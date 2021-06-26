@@ -137,7 +137,6 @@
 
 [Marketproof](https://marketproof.com/new-development)
 
-
 ## video playback
 
 [StreetEasy - decoding the Market June 2020](https://www.youtube.com/watch?v=Dy9cRTmEVY4&t=872s)
