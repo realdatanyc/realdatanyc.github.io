@@ -1,6 +1,6 @@
 
 
-## dashboards
+## dashboards (public)
 
 [MTA subway dashboard](http://dashboard.mta.info/)
 
@@ -15,6 +15,9 @@
 [StreetEasy - May 2011 East Harlem and Mott Haven](https://streeteasy.com/blog/data-dashboard/?agg=Total&metric=Inventory&type=Sales&bedrooms=Any%20Bedrooms&property=Any%20Property%20Type&minDate=2019-01&maxDate=2021-05&area=Mott%20Haven,East%20Harlem)
 
 [StreetEasy - May 2021 Riverdale and Astoria](https://streeteasy.com/blog/data-dashboard/?agg=Total&metric=Inventory&type=Sales&bedrooms=Any%20Bedrooms&property=Any%20Property%20Type&minDate=2019-01&maxDate=2021-05&area=Riverdale,Astoria)
+
+## dashboards (private)
+[OLR - new sales](https://broker.olr.com/DailySaleUpdateForFullView.aspx?City=manhattan&Mode=NL)
 
 ## schedules and fares
 [Ridership](https://github.com/realdatanyc/ridership)
