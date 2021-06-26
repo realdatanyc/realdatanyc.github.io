@@ -14,13 +14,18 @@
 ## manhattan sales
 
 [Washington Heights](https://www.zillow.com/homes/washington-heights_rb/)
+
 [Hamilton Heights](https://www.zillow.com/homes/hamilton-heights_rb/)
 
 [Long Island City](https://www.zillow.com/homes/long-island-city_rb/)
+
 [Greenpoint](https://www.zillow.com/homes/Greenpoint_rb/)
 
 [Hudson Yards](https://www.zillow.com/homes/Hudson-Yards_rb/)
+
 [West Chelsea](https://www.zillow.com/homes/West-Chelsea_rb/)
+
+[Upper West Side](https://www.zillow.com/homes/Upper-West-Side,-New-York,-NY_rb/)
 
 [Mott Haven](https://www.zillow.com/homes/Mott-Haven_rb/)
 
