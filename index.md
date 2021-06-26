@@ -12,6 +12,7 @@
 [MTA subway maps](https://new.mta.info/maps)
 
 ##manhattan sales
+
 [Washington Heights](https://www.zillow.com/homes/washington-heights_rb/)
 [Hamilton Heights](https://www.zillow.com/homes/hamilton-heights_rb/)
 
