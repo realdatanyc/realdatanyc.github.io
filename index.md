@@ -4,6 +4,8 @@
 
 [MTA subway dashboard](http://dashboard.mta.info/)
 
+[Chelsea and Midtown West](https://streeteasy.com/blog/data-dashboard/?agg=Total&metric=Inventory&type=Sales&bedrooms=Any%20Bedrooms&property=Any%20Property%20Type&minDate=2019-01&maxDate=2021-05&area=Chelsea,Midtown%20West)
+
 [StreetEasy - May 2021 LIC and Greenpoint](https://streeteasy.com/blog/data-dashboard/?agg=Total&metric=Inventory&type=Sales&bedrooms=Any%20Bedrooms&property=Any%20Property%20Type&minDate=2010-01-01&maxDate=2021-05-01&area=Long%20Island%20City,Greenpoint)
 
 [StreetEasy - May 2021 Hamilton Heights and Washington Heights](https://streeteasy.com/blog/data-dashboard/?agg=Total&metric=Inventory&type=Sales&bedrooms=Any%20Bedrooms&property=Any%20Property%20Type&minDate=2010-01&maxDate=2021-05&area=Hamilton%20Heights,Washington%20Heights)
