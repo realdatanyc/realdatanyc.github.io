@@ -4,6 +4,8 @@
 
 [MTA subway dashboard](http://dashboard.mta.info/)
 
+[StreetEasy - May 2021 LIC and Greenpoint](https://streeteasy.com/blog/data-dashboard/?agg=Total&metric=Inventory&type=Sales&bedrooms=Any%20Bedrooms&property=Any%20Property%20Type&minDate=2010-01-01&maxDate=2021-05-01&area=Long%20Island%20City,Greenpoint)
+
 ## schedules and fares
 [Ridership](https://github.com/realdatanyc/ridership)
 
