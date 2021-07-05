@@ -4,6 +4,10 @@
 
 [MTA subway dashboard](http://dashboard.mta.info/)
 
+[CIDC COVID Forecasting](https://www.cdc.gov/coronavirus/2019-ncov/science/forecasting/forecasting-us.html)
+
+
+
 [StreetEasy - May 2021 Sales and Sales Inventory Midtown West](https://streeteasy.com/blog/data-dashboard/?agg=Total&metric=Inventory&type=Sales&bedrooms=Any%20Bedrooms&property=Any%20Property%20Type&minDate=2019-05&maxDate=2021-05&area=Midtown%20West)
 
 [StreetEasy - May 2021 Chelsea and Midtown West](https://streeteasy.com/blog/data-dashboard/?agg=Total&metric=Inventory&type=Sales&bedrooms=Any%20Bedrooms&property=Any%20Property%20Type&minDate=2019-01&maxDate=2021-05&area=Chelsea,Midtown%20West)
