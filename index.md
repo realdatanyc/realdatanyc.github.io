@@ -14,7 +14,7 @@ URL in: https://github.com/<username>/<repo name>/blob/master/<file path to file
 
 [TEST2](https://realdatanyc.com/ridership_day_by_day/test.md)
   
-[TEST3](https://realdatanyc.com/ridership_day_by_day/blob/master/test.md  
+[TEST3](https://realdatanyc.com/ridership_day_by_day/blob/master/test.md)  
 
 [StreetEasy - May 2021 Sales and Sales Inventory Midtown West](https://streeteasy.com/blog/data-dashboard/?agg=Total&metric=Inventory&type=Sales&bedrooms=Any%20Bedrooms&property=Any%20Property%20Type&minDate=2019-05&maxDate=2021-05&area=Midtown%20West)
 
