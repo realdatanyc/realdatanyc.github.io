@@ -26,7 +26,7 @@
 ## schedules and fares
 [Ridership](https://github.com/realdatanyc/ridership)
 
-[MTA Live Subway Map](map.mta.info)
+[MTA Live Subway Map](https://map.mta.info/#@40.70949,-73.97853,14z)
 
 [MTA subway maps](https://new.mta.info/maps)
 
