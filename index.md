@@ -28,6 +28,10 @@
 
 [MTA subway maps](https://new.mta.info/maps)
 
+## new york city resources
+[NYC Buildings](https://www1.nyc.gov/site/buildings/index.page)
+
+
 ## manhattan sales
 
 [Washington Heights](https://www.zillow.com/homes/washington-heights_rb/)
