@@ -2,6 +2,8 @@
 
 [MTA subway dashboard](http://dashboard.mta.info/)
 
+[Messari Crypto-Currency Prices](https://messari.io/)
+
 [CDC COVID Forecasting](https://www.cdc.gov/coronavirus/2019-ncov/science/forecasting/forecasting-us.html)
 
 [COVID 19 Forecast Hub](https://covid19forecasthub.org/)
