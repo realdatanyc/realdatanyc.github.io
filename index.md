@@ -1,6 +1,8 @@
-## dashboards (public)
+## tutorial:  data science in real estate
+[KDD 2020 (Knowledge Discovery and Data Mining) Ron Bekkerman, Cherre](https://youtu.be/iATio58YHzA)
 
-[New Development 3D](https://therealdeal.com/research-map/3D-basic-devl-map.html)
+
+## dashboards (public)
 
 [MTA subway dashboard](http://dashboard.mta.info/)
 
