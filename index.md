@@ -1,8 +1,11 @@
 ## tutorial overview:  data science in real estate
-[KDD 2020 (Knowledge Discovery and Data Mining) Ron Bekkerman, Cherre](https://youtu.be/iATio58YHzA)
-[KDD 2020 (Knowledge Discovery and Data Mining) Foster Provost, Compass and NYU](https://www.youtube.com/watch?v=EZQuqrjxbFk)
-[KDD 2020 (Knowledge Discovery and Data Mining) Ali Rau, Air BNB](https://www.youtube.com/watch?v=3hqHoeuA174)
-[KDD 2020 (Knowledge Discovery and Data Mining) fireside chat](https://www.youtube.com/watch?v=sbOrjcjNXrw) 
+[KDD 2020 (Knowledge Discovery and Data Mining) #1 Ron Bekkerman, Cherre](https://youtu.be/iATio58YHzA)
+
+[KDD 2020 (Knowledge Discovery and Data Mining) #2 Foster Provost, Compass and NYU](https://www.youtube.com/watch?v=EZQuqrjxbFk)
+
+[KDD 2020 (Knowledge Discovery and Data Mining) #3 Ali Rau, Air BNB](https://www.youtube.com/watch?v=3hqHoeuA174)
+
+[KDD 2020 (Knowledge Discovery and Data Mining) #4 fireside chat](https://www.youtube.com/watch?v=sbOrjcjNXrw) 
 
 
 ## dashboards (public)
