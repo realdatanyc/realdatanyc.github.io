@@ -1,5 +1,6 @@
 ## RealDataNYC
 
+
 ## tutorial overview:  data science in real estate
 
 [KDD 2020 (Knowledge Discovery and Data Mining) #1 - Ron Bekkerman, Cherre](https://youtu.be/iATio58YHzA)
