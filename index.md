@@ -1,5 +1,8 @@
 ## RealDataNYC
 
+## pocasts:  real estate
+[Deconstruct](https://open.spotify.com/show/1S4lfbGmwSEWFzCGC5CmGK)
+
 
 ## tutorial overview:  data science in real estate
 
