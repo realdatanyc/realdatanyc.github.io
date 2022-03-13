@@ -3,6 +3,13 @@
 ## pocasts:  real estate
 [Deconstruct by TheRealDeal](https://open.spotify.com/show/1S4lfbGmwSEWFzCGC5CmGK)
 
+
+### Learn Python for Data Analysis
+[The Brown Institute - Tranings](https://browninstitute.github.io/at_home/)
+[Points Unknown](https://pointsunknown.nyc/)
+[The Brown Institute - Columbia and Stanford](https://brown.columbia.edu/)
+[NYC Energy Grade Analysis](https://colab.research.google.com/drive/1jQBvYn5uO9U9IxmkoDPDQqGwC613zPZf#scrollTo=f7mfgY7Wfa5X)
+
 ## dataasets:
 [2018 Squirrel Census](https://data.cityofnewyork.us/browse?Data-Collection_Data-Collection=2018+Central+Park+Squirrel+Census)
 
