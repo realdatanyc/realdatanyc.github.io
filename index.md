@@ -6,8 +6,11 @@
 
 ### Learn Python for Data Analysis
 [The Brown Institute - Tranings](https://browninstitute.github.io/at_home/)
+
 [Points Unknown](https://pointsunknown.nyc/)
+
 [The Brown Institute - Columbia and Stanford](https://brown.columbia.edu/)
+
 [NYC Energy Grade Analysis](https://colab.research.google.com/drive/1jQBvYn5uO9U9IxmkoDPDQqGwC613zPZf#scrollTo=f7mfgY7Wfa5X)
 
 ## dataasets:
