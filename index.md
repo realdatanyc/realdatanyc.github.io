@@ -3,6 +3,11 @@
 ## pocasts:  real estate
 [Deconstruct by TheRealDeal](https://open.spotify.com/show/1S4lfbGmwSEWFzCGC5CmGK)
 
+## dataasets:
+[2018 Squirrel Census](https://data.cityofnewyork.us/browse?Data-Collection_Data-Collection=2018+Central+Park+Squirrel+Census)
+[WiFi Hotspot Locations](https://data.cityofnewyork.us/City-Government/NYC-Wi-Fi-Hotspot-Locations/yjub-udmw)
+[LinkNYC Locations](https://data.cityofnewyork.us/Social-Services/LinkNYC-Locations/s4kf-3yrf)
+
 
 ## tutorial overview:  data science in real estate
 
