@@ -10,6 +10,9 @@
 
 [LinkNYC Locations](https://data.cityofnewyork.us/Social-Services/LinkNYC-Locations/s4kf-3yrf)
 
+## R and Python in Colab
+[Instructions](https://towardsdatascience.com/how-to-use-r-in-google-colab-b6e02d736497)
+
 
 ## tutorial overview:  data science in real estate
 
