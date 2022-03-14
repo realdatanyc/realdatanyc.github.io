@@ -3,6 +3,8 @@
 ## pocasts:  real estate
 [Deconstruct by TheRealDeal](https://open.spotify.com/show/1S4lfbGmwSEWFzCGC5CmGK)
 
+[Behind the Bricks](https://newyorkmultifamily.com/behindthebricks/)
+
 
 ### Learn Python for Data Analysis
 [The Brown Institute - Tranings](https://browninstitute.github.io/at_home/)
