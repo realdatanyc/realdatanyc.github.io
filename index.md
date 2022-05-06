@@ -5,6 +5,9 @@
 
 [Behind the Bricks](https://newyorkmultifamily.com/behindthebricks/)
 
+### web 3.0
+[Web 3 is Going Great](https://web3isgoinggreat.com/)
+
 
 ### Learn Python for Data Analysis
 [The Brown Institute - Tranings](https://browninstitute.github.io/at_home/)
