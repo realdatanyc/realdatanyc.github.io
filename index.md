@@ -1,5 +1,8 @@
 ## RealDataNYC
 
+## grit scale:  Angela Duckworth
+[Take the grit scale assessment](https://angeladuckworth.com/grit-scale/)
+
 ## pocasts:  real estate
 [Deconstruct by TheRealDeal](https://open.spotify.com/show/1S4lfbGmwSEWFzCGC5CmGK)
 
