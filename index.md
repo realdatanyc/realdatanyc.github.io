@@ -13,7 +13,7 @@
 
 
 ### Learn Python for Data Analysis
-[The Brown Institute - Tranings](https://browninstitute.github.io/at_home/)
+[The Brown Institute - Trainings](https://browninstitute.github.io/at_home/)
 
 [Points Unknown](https://pointsunknown.nyc/)
 
