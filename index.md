@@ -1,5 +1,8 @@
 ## RealDataNYC
 
+
+
+
 ## grit scale:  Angela Duckworth
 [Take the grit scale assessment](https://angeladuckworth.com/grit-scale/)
 
@@ -10,6 +13,9 @@
 
 ### web 3.0
 [Web 3 is Going Great](https://web3isgoinggreat.com/)
+
+### Pratt DataViz
+[Student projects](https://studentwork.prattsi.org/infovis/)
 
 
 ### Learn Python for Data Analysis
