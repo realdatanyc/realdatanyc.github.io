@@ -11,6 +11,9 @@
 ## Seat Geak
 [MSNBC article 2022](https://www.cnbc.com/2014/06/05/the-100-million-idea-that-barely-anybody-knows-about.html)
 
+## Real Estate Articles
+[Location - Investopia](https://www.investopedia.com/financial-edge/0410/the-5-factors-of-a-good-location.aspx)
+
 
 ## grit scale:  Angela Duckworth
 [Take the grit scale assessment](https://angeladuckworth.com/grit-scale/)
