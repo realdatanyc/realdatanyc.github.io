@@ -14,6 +14,9 @@
 ## Real Estate Articles
 [Location - Investopia](https://www.investopedia.com/financial-edge/0410/the-5-factors-of-a-good-location.aspx)
 
+## Real Estate Websites
+[New Construction Townhouses in Alameda, CA](https://www.newhomesource.com/aboutus)
+
 
 ## grit scale:  Angela Duckworth
 [Take the grit scale assessment](https://angeladuckworth.com/grit-scale/)
