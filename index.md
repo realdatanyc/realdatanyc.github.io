@@ -1,7 +1,7 @@
 ## RealDataNYC
 
 ## Neighborhood Data
-[StreetEasty January 2022](https://public.tableau.com/app/profile/nancy.wu2100/viz/January2022MarketOverview/NeighborhoodData)
+[StreetEasy January 2022](https://public.tableau.com/app/profile/nancy.wu2100/viz/January2022MarketOverview/NeighborhoodData)
 
 ## NYC Open Data:  FILM
 [NYC Film and Data](https://data.cityofnewyork.us/browse?q=film)
