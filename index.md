@@ -5,6 +5,8 @@
 ## Broadway
 [Broadway Business Grosses](https://broadwaybusiness.com/grosses/)
 
+[Theatrical Index](https://www.theatricalindex.com/)
+
 ## Schedules
 [Local TV Guide](https://nocable.org/tv-listings/zip/10001-new-york-city-ny/)
 
