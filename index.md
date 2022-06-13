@@ -1,4 +1,7 @@
 
+## Reading
+[Home Finder - Forbes 2018](https://www.forbes.com/sites/tomtaulli/2018/09/08/bringing-a-troubled-company-back-to-life/?sh=154629c43e88)
+
 ## Neighborhood Data
 [StreetEasy January 2022](https://public.tableau.com/app/profile/nancy.wu2100/viz/January2022MarketOverview/NeighborhoodData)
 
