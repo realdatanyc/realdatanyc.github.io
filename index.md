@@ -37,6 +37,9 @@
 ### Pratt DataViz
 [Student projects](https://studentwork.prattsi.org/infovis/)
 
+### NY Times Real Estate articles
+[UWS Studio - June 2022](https://www.nytimes.com/2022/06/07/realestate/renters-upper-west-side.html)
+
 
 ### Learn Python for Data Analysis
 [The Brown Institute - Trainings](https://browninstitute.github.io/at_home/)
@@ -47,7 +50,7 @@
 
 [NYC Energy Grade Analysis](https://colab.research.google.com/drive/1jQBvYn5uO9U9IxmkoDPDQqGwC613zPZf#scrollTo=f7mfgY7Wfa5X)
 
-## dataasets:
+## data sets:
 [2018 Squirrel Census](https://data.cityofnewyork.us/browse?Data-Collection_Data-Collection=2018+Central+Park+Squirrel+Census)
 
 [WiFi Hotspot Locations](https://data.cityofnewyork.us/City-Government/NYC-Wi-Fi-Hotspot-Locations/yjub-udmw)
