@@ -1,5 +1,7 @@
 
 ## RealDataNYC
+[School of Data 2022](https://www.youtube.com/playlist?list=PLgCe1KzF20iyuCO9XDbwpxuCdVJpxa-d4)
+
 [Home Finder - Forbes 2018](https://www.forbes.com/sites/tomtaulli/2018/09/08/bringing-a-troubled-company-back-to-life/?sh=154629c43e88)
 
 ## Neighborhood Data
