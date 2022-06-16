@@ -4,6 +4,8 @@
 
 [NYC Vacancy Survey 2021](https://www1.nyc.gov/assets/hpd/downloads/pdfs/services/2021-nychvs-selected-initial-findings.pdf)
 
+[US Census Vacancy and Homeownership](https://www.census.gov/housing/hvs/index.html)
+
 [Home Finder - Forbes 2018](https://www.forbes.com/sites/tomtaulli/2018/09/08/bringing-a-troubled-company-back-to-life/?sh=154629c43e88)
 
 ## Neighborhood Data
