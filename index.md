@@ -6,6 +6,9 @@
 
 [US Census Vacancy and Homeownership](https://www.census.gov/housing/hvs/index.html)
 
+[BLS 2020 - Consumer Expenditures](https://www.bls.gov/opub/reports/consumer-expenditures/2020/home.htm#:~:text=The%20eight%20largest%20categories%20by,%2Dthird%20(34.9%20percent)%20of)
+
+
 [Home Finder - Forbes 2018](https://www.forbes.com/sites/tomtaulli/2018/09/08/bringing-a-troubled-company-back-to-life/?sh=154629c43e88)
 
 ## Neighborhood Data
