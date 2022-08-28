@@ -7,6 +7,7 @@
 
 [2. MTA Service Changes](https://new.mta.info/alerts)
 
+[3. NYC Energy Star Ratings Map](https://nycdob.github.io/LocalLaw97/index0421.html)
 
 
 
