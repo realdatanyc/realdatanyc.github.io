@@ -5,11 +5,13 @@
 
 ## KEY SITES
 
-[1. NASA - Global Climate Change](https://climate.nasa.gov/)
+[1.1 NYC Open Data Asset Inventory](https://data.cityofnewyork.us/City-Government/Local-Law-251-of-2017-Published-Data-Asset-Invento/5tqd-u88y)
 
-[2. MTA Service Changes](https://new.mta.info/alerts)
+[1.2 NASA - Global Climate Change](https://climate.nasa.gov/)
 
-[3. NYC Energy Star Ratings Map](https://nycdob.github.io/LocalLaw97/index0421.html)
+[2.0 MTA Service Changes](https://new.mta.info/alerts)
+
+[3.0 NYC Energy Star Ratings Map](https://nycdob.github.io/LocalLaw97/index0421.html)
 
 ## COLLABORATION
 [Intro to Data Visualization](https://colab.research.google.com/drive/1afYmLpDfuuMzVw25_1wYbDGbTkNKw0HM?authuser=1)
