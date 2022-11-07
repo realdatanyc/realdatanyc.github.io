@@ -5,7 +5,9 @@
 
 ## KEY SITES
 
-[1.0 Wolfram Alpha - mortage calculator](https://www.wolframalpha.com/input?i=mortgage+%24150%2C000+3.25%25%2C+15+years)
+[Wolfram Language - book](https://www.wolfram.com/language/elementary-introduction/2nd-ed/)
+
+[1.0.1 Wolfram Alpha - mortage calculator](https://www.wolframalpha.com/input?i=mortgage+%24150%2C000+3.25%25%2C+15+years)
 
 [1.1 NYC Open Data Asset Inventory](https://data.cityofnewyork.us/City-Government/Local-Law-251-of-2017-Published-Data-Asset-Invento/5tqd-u88y)
 
