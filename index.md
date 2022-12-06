@@ -5,7 +5,7 @@
 
 ## KEY SITES
 
-[CDC Covid 19 vaccine updates\(https://www.cdc.gov/coronavirus/2019-ncov/vaccines/stay-up-to-date.html)
+[CDC Covid 19 vaccine updates](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/stay-up-to-date.html)
 
 [Wolfram Language - book](https://www.wolfram.com/language/elementary-introduction/2nd-ed/)
 
