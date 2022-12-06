@@ -5,6 +5,8 @@
 
 ## KEY SITES
 
+[CDC Covid 19 vaccine updates\(https://www.cdc.gov/coronavirus/2019-ncov/vaccines/stay-up-to-date.html)
+
 [Wolfram Language - book](https://www.wolfram.com/language/elementary-introduction/2nd-ed/)
 
 [1.0.1 Wolfram Alpha - mortage calculator](https://www.wolframalpha.com/input?i=mortgage+%24150%2C000+3.25%25%2C+15+years)
