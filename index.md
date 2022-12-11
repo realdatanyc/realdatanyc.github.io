@@ -7,6 +7,8 @@
 
 [CDC Covid 19 vaccine updates](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/stay-up-to-date.html)
 
+[Case Shiller Index](https://www.spglobal.com/spdji/en/index-family/indicators/sp-corelogic-case-shiller/?utm_medium=email&utm_source=marketo&utm_campaign=email_campaign&utm_term=undefined&utm_content=monthly_email_case-shiller&gclid=undefined#overview)
+
 [Wolfram Language - book](https://www.wolfram.com/language/elementary-introduction/2nd-ed/)
 
 [1.0.1 Wolfram Alpha - mortage calculator](https://www.wolframalpha.com/input?i=mortgage+%24150%2C000+3.25%25%2C+15+years)
