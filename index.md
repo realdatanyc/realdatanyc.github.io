@@ -5,6 +5,8 @@
 
 ## KEY SITES
 
+[NYC Department of Finance Rolling Sales Data](https://www.nyc.gov/site/finance/taxes/property-rolling-sales-data.page)
+
 [CDC Covid 19 vaccine updates](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/stay-up-to-date.html)
 
 [Case Shiller Index](https://www.spglobal.com/spdji/en/index-family/indicators/sp-corelogic-case-shiller/?utm_medium=email&utm_source=marketo&utm_campaign=email_campaign&utm_term=undefined&utm_content=monthly_email_case-shiller&gclid=undefined#overview)
